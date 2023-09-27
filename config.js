@@ -57,7 +57,7 @@ global.CAPTION = '꧁•༆ 𝑫яα¢к 𝑪увєя вσт 𒆜© 2023' // Cap
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = 'default' // Set Alive Message
+global.ALIVE_MESSAGE = 'ʜᴇʏ @user ꧁•༆ _𝑫яα¢к 𝑪увєя вσт 𒆜 ʙᴏʏ ɪꜱ ᴀʟɪᴠᴇ ɴᴏᴡ..._ ⚡                                                   _ᴛʏᴇᴍᴇ [.ᴍᴇɴᴜ] ɢᴇᴛ ᴍʏ ᴄᴍᴅ ʟɪꜱᴛ...🌚💫_                                            ᴍʏ ᴏᴡɴᴇʀ - ѕт_νιнαηgα_   🍀⚡                  _ѕнαяє тнιѕ ℓιηк_ - https://chat.whatsapp.com/D6lMuDoPocWBt3e6vM2VpE                                     _тнαηкѕ ƒσя υѕιηg ꧁•༆ 𝑫яα¢к 𝑪увєя вσт 𒆜💫🌀💗_' // Set Alive Message
 
 global.MAX_SIZE = '480' // Bot Uloading Max size 
 
@@ -91,5 +91,5 @@ global.VOICE_REPLY = true
 
 global.ytname = "YT: janithsadanuwan" //ur yt chanel name
 global.socialm = "GitHub: vihangamethsara1" //ur github or insta name
-global.location = "Srilanka, buduruwagala" //ur location
+global.location = "Srilanka, вuduruwagala" //ur location
 
