@@ -14,10 +14,10 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;gu50HQTY#tiycExo-BTYyT_o-ZjPyk3uqMVgbfgzppG-z3yRdL0Y' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://vihanga_iuhm_user:FJXChI6t8N1rRXjtiYuuqA1eQaAuOSWm@dpg-ckba5ahkms5s73e39hmg-a/vihanga_iuhm'
 
 
 
@@ -55,7 +55,7 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = '꧁•༆ 𝑫яα¢к 𝑪увєя вσт 𒆜© 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/32719683c430e9c32b405.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = 'ʜᴇʏ @user ꧁•༆ _𝑫яα¢к 𝑪увєя вσт 𒆜 ʙᴏʏ ɪꜱ ᴀʟɪᴠᴇ ɴᴏᴡ..._ ⚡                                                   _ᴛʏᴇᴍᴇ [.ᴍᴇɴᴜ] ɢᴇᴛ ᴍʏ ᴄᴍᴅ ʟɪꜱᴛ...🌚💫_                                            ᴍʏ ᴏᴡɴᴇʀ - ѕт_νιнαηgα_   🍀⚡                  _ѕнαяє тнιѕ ℓιηк_ - https://chat.whatsapp.com/D6lMuDoPocWBt3e6vM2VpE                                     _тнαηкѕ ƒσя υѕιηg ꧁•༆ 𝑫яα¢к 𝑪увєя вσт 𒆜💫🌀💗_' // Set Alive Message
 
